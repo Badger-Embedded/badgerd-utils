@@ -1,0 +1,9 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+colorama==0.4.6
+docopt==0.6.2
+idna==3.4
+pycryptodome==3.18.0
+requests==2.31.0
+tinytuya==1.12.8
+urllib3==2.0.3
